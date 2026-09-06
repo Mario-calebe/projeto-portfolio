@@ -1,6 +1,6 @@
 const botao = document.getElementById('tema');
 const body = document.body;
-
+  
 // Função para alternar entre tema claro e escuro
 function temaEscuro(tipo) {
   if (tipo == true) {
